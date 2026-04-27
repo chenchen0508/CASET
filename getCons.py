@@ -72,7 +72,7 @@ def getContinue(in_file,out_file):
 
 
 def perspecitveAPI(text):
-    API_KEY = 'AIzaSyC8G4pZx53pyS3VOSm8XDN7hS6n6_WXwuU'
+    API_KEY = ' '
     client = discovery.build(
       "commentanalyzer",
       "v1alpha1",
